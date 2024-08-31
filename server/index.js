@@ -9,6 +9,15 @@ app.use(express.json());
 
 //routes
 
+//create a todo
+
+//get all todos
+
+//get a todo
+
+//update a todo
+
+//delete a todo
 
 
 app.listen(5001, () => {
